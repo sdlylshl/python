@@ -10,3 +10,6 @@
 [submodule "rtcp"]
 	path = rtcp
 	url = https://github.com/knownsec/rtcp
+[submodule "wallproxy"]
+	path = wallproxy
+	url = https://github.com/wallproxy/wallproxy
