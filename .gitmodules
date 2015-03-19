@@ -1,0 +1,12 @@
+[submodule "SwitchHosts"]
+	path = SwitchHosts
+	url = https://github.com/oldj/SwitchHosts.git
+[submodule "huhamhire-hosts"]
+	path = huhamhire-hosts
+	url = https://github.com/huhamhire/huhamhire-hosts
+[submodule "simDHT"]
+	path = simDHT
+	url = https://github.com/laomayi/simDHT
+[submodule "rtcp"]
+	path = rtcp
+	url = https://github.com/knownsec/rtcp
